@@ -1,4 +1,4 @@
-### Ruby: Почему 2 == 2.0 (сравнение Integer и Float) возвращает true?
+# Ruby: Почему 2 == 2.0 (сравнение Integer и Float) возвращает true?
 
 
 

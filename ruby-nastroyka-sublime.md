@@ -1,4 +1,4 @@
-### Ruby: Настройка Sublime
+# Ruby: Настройка Sublime
 
 
 
