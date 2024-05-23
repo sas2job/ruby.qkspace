@@ -23,3 +23,4 @@
 23. [Ruby: Как работает чтение из XML-файла?](ruby-kak-rabotaet-chtenie-iz-xml-fayla.md)
 24. [Windows: Откуда берется ? при чтении из файла](windows-otkuda-beretsya-pri-chtenii-iz-fayla.md)
 25. [Ruby: Зачем пустая строка в конце файла?](ruby-zachem-pustaya-stroka-v-kontse-fayla.md)
+26. [Ruby: Как получить произвольную букву](ruby-kak-poluchit-proizvolnuyu-bukvu.md)
