@@ -24,3 +24,4 @@
 24. [Windows: Откуда берется ? при чтении из файла](windows-otkuda-beretsya-pri-chtenii-iz-fayla.md)
 25. [Ruby: Зачем пустая строка в конце файла?](ruby-zachem-pustaya-stroka-v-kontse-fayla.md)
 26. [Ruby: Как получить произвольную букву](ruby-kak-poluchit-proizvolnuyu-bukvu.md)
+27. [Ruby: Когда используется двойное отрицание (!!)](ruby-kogda-ispolzuetsya-dvoynoe-otritsanie.md)
