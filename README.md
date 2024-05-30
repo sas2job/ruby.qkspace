@@ -26,3 +26,4 @@
 26. [Ruby: Как получить произвольную букву](ruby-kak-poluchit-proizvolnuyu-bukvu.md)
 27. [Ruby: Когда используется двойное отрицание (!!)](ruby-kogda-ispolzuetsya-dvoynoe-otritsanie.md)
 28. [Ruby: Как работает метод each_with_index?](ruby-each_with_index.md)
+29. [Ruby: Область видимости в блоках (и циклах)](ruby-oblast-vidimosti-v-blokah-i-tsiklah.md)
