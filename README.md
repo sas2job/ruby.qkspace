@@ -27,3 +27,4 @@
 27. [Ruby: Когда используется двойное отрицание (!!)](ruby-kogda-ispolzuetsya-dvoynoe-otritsanie.md)
 28. [Ruby: Как работает метод each_with_index?](ruby-each_with_index.md)
 29. [Ruby: Область видимости в блоках (и циклах)](ruby-oblast-vidimosti-v-blokah-i-tsiklah.md)
+30. [Ruby: Цикл с loop и область видимости переменной](ruby-tsikl-s-loop-i-oblast-vidimosti-peremennoy.md)
