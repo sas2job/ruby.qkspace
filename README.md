@@ -30,3 +30,4 @@
 30. [Ruby: Цикл с loop и область видимости переменной](ruby-tsikl-s-loop-i-oblast-vidimosti-peremennoy.md)
 31. [Ruby: Чем отличается sym: от :sym ? (про символы и хэши)](ruby-chem-otlichaetsya-sym-ot-sym-pro-simvoly-i-heshi.md)
 32. [Ruby: Чем отличаются ^ и $ от \A и \z в регулярных выражениях?](ruby-chem-otlichayutsya-i-ot-a-i-z-v-regulyarnyh-vyrazheniyah.md)
+33. [Ruby: Тернарный оператор](ruby-ternarnyy-operator.md)
