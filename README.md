@@ -31,3 +31,4 @@
 31. [Ruby: Чем отличается sym: от :sym ? (про символы и хэши)](ruby-chem-otlichaetsya-sym-ot-sym-pro-simvoly-i-heshi.md)
 32. [Ruby: Чем отличаются ^ и $ от \A и \z в регулярных выражениях?](ruby-chem-otlichayutsya-i-ot-a-i-z-v-regulyarnyh-vyrazheniyah.md)
 33. [Ruby: Тернарный оператор](ruby-ternarnyy-operator.md)
+34. [Ruby: Инициализация переменных до первого использования](ruby-initsializatsiya-peremennyh-do-pervogo-ispolzovaniya.md)
