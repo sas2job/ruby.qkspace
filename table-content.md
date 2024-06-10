@@ -1,5 +1,4 @@
 
-Ruby: В чем разница между require и require_relative
 Ruby: Метод digits у числа
 Ruby: В чем отличие && от & и от and
 Ruby: Почему в методах не пишут return?
