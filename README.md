@@ -35,3 +35,4 @@
 35. [Ruby: В чем разница между require и require_relative](ruby-v-chem-raznitsa-mezhdu-require-i-require_relative.md)
 36. [Ruby: Метод digits у числа](ruby-digits.md)
 37. [Ruby: В чем отличие && от & и от and](ruby-v-chem-otlichie-ot-i-ot-and.md)
+38. [Ruby: Почему в методах не пишут return?](ruby-pochemu-v-metodah-ne-pishut-return.md)
