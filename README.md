@@ -36,3 +36,4 @@
 36. [Ruby: Метод digits у числа](ruby-digits.md)
 37. [Ruby: В чем отличие && от & и от and](ruby-v-chem-otlichie-ot-i-ot-and.md)
 38. [Ruby: Почему в методах не пишут return?](ruby-pochemu-v-metodah-ne-pishut-return.md)
+39. [Ruby: Как работает оператор ||= (мемоизация)](ruby-kak-rabotaet-operator-memoizatsiya.md)
