@@ -38,3 +38,4 @@
 38. [Ruby: Почему в методах не пишут return?](ruby-pochemu-v-metodah-ne-pishut-return.md)
 39. [Ruby: Как работает оператор ||= (мемоизация)](ruby-kak-rabotaet-operator-memoizatsiya.md)
 40. [Ruby: Модули как коллекция методов](ruby-moduli-kak-kollektsiya-metodov.md)
+41. [Ruby: Что такое два двоеточия "::"](ruby-chto-takoe-dva-dvoetochiya.md)
