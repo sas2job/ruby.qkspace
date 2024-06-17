@@ -39,3 +39,4 @@
 39. [Ruby: Как работает оператор ||= (мемоизация)](ruby-kak-rabotaet-operator-memoizatsiya.md)
 40. [Ruby: Модули как коллекция методов](ruby-moduli-kak-kollektsiya-metodov.md)
 41. [Ruby: Что такое два двоеточия "::"](ruby-chto-takoe-dva-dvoetochiya.md)
+42. [Ruby: Что такое литерал?](ruby-chto-takoe-literal.md)
