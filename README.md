@@ -40,3 +40,4 @@
 40. [Ruby: Модули как коллекция методов](ruby-moduli-kak-kollektsiya-metodov.md)
 41. [Ruby: Что такое два двоеточия "::"](ruby-chto-takoe-dva-dvoetochiya.md)
 42. [Ruby: Что такое литерал?](ruby-chto-takoe-literal.md)
+43. [Ruby: Что такое yield?](ruby-chto-takoe-yield.md)
