@@ -41,3 +41,4 @@
 41. [Ruby: Что такое два двоеточия "::"](ruby-chto-takoe-dva-dvoetochiya.md)
 42. [Ruby: Что такое литерал?](ruby-chto-takoe-literal.md)
 43. [Ruby: Что такое yield?](ruby-chto-takoe-yield.md)
+44. [Ruby: Что такое lambda-функции](ruby-chto-takoe-lambda-funktsii.md)
