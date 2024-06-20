@@ -1,6 +1,4 @@
 
-Ruby: Что означает выражение &
-?
 Ruby: Передача в метод блока, proc и lambda
 Ruby: return, break и next внутри блоков, proc-ов и лямбд
 Ruby: stack level too deep (и про ошибку Stack Overflow)
