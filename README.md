@@ -43,3 +43,4 @@
 43. [Ruby: Что такое yield?](ruby-chto-takoe-yield.md)
 44. [Ruby: Что такое lambda-функции](ruby-chto-takoe-lambda-funktsii.md)
 45. [Ruby: Что означает выражение &:some_method?](ruby-chto-oznachaet-vyrazhenie-some_method.md)
+46. [Ruby: Передача в метод блока, proc и lambda](ruby-peredacha-v-metod-bloka-proc-i-lambda.md)
